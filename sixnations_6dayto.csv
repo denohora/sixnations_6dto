@@ -1,0 +1,229 @@
+"GMD","Team","Year","Result","For","Aga","Diff","HTf","HTa","Opposition","Ground","Match.Date","diff.Date","Year.WR","TO.6Day","Team.Opp","diff.Date.Opp","Year.WR.Opp","TO.6Day.Opp","diff.Date.adv"
+"Rome 15-Feb-03","Italy","03","won",30,22,8,20,17,"v Wales","Rome","15-Feb-03",314,0.2,FALSE,"Wales",315,0,FALSE,-1
+"Twickenham 15-Feb-03","England","03","won",25,17,8,12,7,"v France","Twickenham","15-Feb-03",314,1,FALSE,"France",315,0.6,FALSE,-1
+"Murrayfield 16-Feb-03","Scotland","03","lost",6,36,-30,0,13,"v Ireland","Murrayfield","16-Feb-03",316,0.4,FALSE,"Ireland",316,0.8,FALSE,0
+"Millennium Stadium 22-Feb-03","Wales","03","lost",9,26,-17,6,9,"v England","Millennium Stadium","22-Feb-03",7,0,FALSE,"England",7,1,FALSE,0
+"Rome 22-Feb-03","Italy","03","lost",13,37,-24,3,18,"v Ireland","Rome","22-Feb-03",7,0.2,FALSE,"Ireland",6,0.8,TRUE,1
+"Stade de France 23-Feb-03","France","03","won",38,3,35,17,3,"v Scotland","Stade de France","23-Feb-03",8,0.6,FALSE,"Scotland",7,0.4,FALSE,1
+"Lansdowne Road 08-Mar-03","Ireland","03","won",15,12,3,12,3,"v France","Lansdowne Road","08-Mar-03",14,0.8,FALSE,"France",13,0.6,FALSE,1
+"Murrayfield 08-Mar-03","Scotland","03","won",30,22,8,20,10,"v Wales","Murrayfield","08-Mar-03",13,0.4,FALSE,"Wales",14,0,FALSE,-1
+"Twickenham 09-Mar-03","England","03","won",40,5,35,33,0,"v Italy","Twickenham","09-Mar-03",15,1,FALSE,"Italy",15,0.2,FALSE,0
+"Millennium Stadium 22-Mar-03","Wales","03","lost",24,25,-1,7,14,"v Ireland","Millennium Stadium","22-Mar-03",14,0,FALSE,"Ireland",14,0.8,FALSE,0
+"Twickenham 22-Mar-03","England","03","won",40,9,31,16,9,"v Scotland","Twickenham","22-Mar-03",13,1,FALSE,"Scotland",14,0.4,FALSE,-1
+"Rome 23-Mar-03","Italy","03","lost",27,53,-26,10,41,"v France","Rome","23-Mar-03",14,0.2,FALSE,"France",15,0.6,FALSE,-1
+"Murrayfield 29-Mar-03","Scotland","03","won",33,25,8,23,15,"v Italy","Murrayfield","29-Mar-03",7,0.4,FALSE,"Italy",6,0.2,TRUE,1
+"Stade de France 29-Mar-03","France","03","won",33,5,28,10,5,"v Wales","Stade de France","29-Mar-03",6,0.6,TRUE,"Wales",7,0,FALSE,-1
+"Lansdowne Road 30-Mar-03","Ireland","03","lost",6,42,-36,6,13,"v England","Lansdowne Road","30-Mar-03",8,0.8,FALSE,"England",8,1,FALSE,0
+"Millennium Stadium 14-Feb-04","Wales","04","won",23,10,13,18,3,"v Scotland","Millennium Stadium","14-Feb-04",322,0.4,FALSE,"Scotland",322,0,FALSE,0
+"Stade de France 14-Feb-04","France","04","won",35,17,18,11,3,"v Ireland","Stade de France","14-Feb-04",322,1,FALSE,"Ireland",321,0.8,FALSE,1
+"Rome 15-Feb-04","Italy","04","lost",9,50,-41,9,26,"v England","Rome","15-Feb-04",323,0.2,FALSE,"England",322,0.6,FALSE,1
+"Murrayfield 21-Feb-04","Scotland","04","lost",13,35,-22,6,20,"v England","Murrayfield","21-Feb-04",7,0,FALSE,"England",6,0.6,TRUE,1
+"Stade de France 21-Feb-04","France","04","won",25,0,25,10,0,"v Italy","Stade de France","21-Feb-04",7,1,FALSE,"Italy",6,0.2,TRUE,1
+"Lansdowne Road 22-Feb-04","Ireland","04","won",36,15,21,24,3,"v Wales","Lansdowne Road","22-Feb-04",8,0.8,FALSE,"Wales",8,0.4,FALSE,0
+"Rome 06-Mar-04","Italy","04","won",20,14,6,9,9,"v Scotland","Rome","06-Mar-04",14,0.2,FALSE,"Scotland",14,0,FALSE,0
+"Twickenham 06-Mar-04","England","04","lost",13,19,-6,10,12,"v Ireland","Twickenham","06-Mar-04",14,0.6,FALSE,"Ireland",13,0.8,FALSE,1
+"Millennium Stadium 07-Mar-04","Wales","04","lost",22,29,-7,12,13,"v France","Millennium Stadium","07-Mar-04",14,0.4,FALSE,"France",15,1,FALSE,-1
+"Lansdowne Road 20-Mar-04","Ireland","04","won",19,3,16,12,0,"v Italy","Lansdowne Road","20-Mar-04",14,0.8,FALSE,"Italy",14,0.2,FALSE,0
+"Twickenham 20-Mar-04","England","04","won",31,21,10,16,9,"v Wales","Twickenham","20-Mar-04",14,0.6,FALSE,"Wales",13,0.4,FALSE,1
+"Murrayfield 21-Mar-04","Scotland","04","lost",0,31,-31,0,11,"v France","Murrayfield","21-Mar-04",15,0,FALSE,"France",14,1,FALSE,1
+"Lansdowne Road 27-Mar-04","Ireland","04","won",37,16,21,16,9,"v Scotland","Lansdowne Road","27-Mar-04",7,0.8,FALSE,"Scotland",6,0,TRUE,1
+"Millennium Stadium 27-Mar-04","Wales","04","won",44,10,34,16,0,"v Italy","Millennium Stadium","27-Mar-04",7,0.4,FALSE,"Italy",7,0.2,FALSE,0
+"Stade de France 27-Mar-04","France","04","won",24,21,3,21,3,"v England","Stade de France","27-Mar-04",6,1,TRUE,"England",7,0.6,FALSE,-1
+"Millennium Stadium 05-Feb-05","Wales","05","won",11,9,2,8,3,"v England","Millennium Stadium","05-Feb-05",315,1,FALSE,"England",315,0.4,FALSE,0
+"Stade de France 05-Feb-05","France","05","won",16,9,7,0,6,"v Scotland","Stade de France","05-Feb-05",315,0.8,FALSE,"Scotland",315,0.2,FALSE,0
+"Rome 06-Feb-05","Italy","05","lost",17,28,-11,6,8,"v Ireland","Rome","06-Feb-05",316,0,FALSE,"Ireland",316,0.6,FALSE,0
+"Murrayfield 12-Feb-05","Scotland","05","lost",13,40,-27,8,18,"v Ireland","Murrayfield","12-Feb-05",7,0.2,FALSE,"Ireland",6,0.6,TRUE,1
+"Rome 12-Feb-05","Italy","05","lost",8,38,-30,5,19,"v Wales","Rome","12-Feb-05",6,0,TRUE,"Wales",7,1,FALSE,-1
+"Twickenham 13-Feb-05","England","05","lost",17,18,-1,17,6,"v France","Twickenham","13-Feb-05",8,0.4,FALSE,"France",8,0.8,FALSE,0
+"Murrayfield 26-Feb-05","Scotland","05","won",18,10,8,6,3,"v Italy","Murrayfield","26-Feb-05",14,0.2,FALSE,"Italy",14,0,FALSE,0
+"Stade de France 26-Feb-05","France","05","lost",18,24,-6,15,6,"v Wales","Stade de France","26-Feb-05",13,0.8,FALSE,"Wales",14,1,FALSE,-1
+"Lansdowne Road 27-Feb-05","Ireland","05","won",19,13,6,12,10,"v England","Lansdowne Road","27-Feb-05",15,0.6,FALSE,"England",14,0.4,FALSE,1
+"Lansdowne Road 12-Mar-05","Ireland","05","lost",19,26,-7,9,18,"v France","Lansdowne Road","12-Mar-05",13,0.6,FALSE,"France",14,0.8,FALSE,-1
+"Twickenham 12-Mar-05","England","05","won",39,7,32,22,0,"v Italy","Twickenham","12-Mar-05",13,0.4,FALSE,"Italy",14,0,FALSE,-1
+"Murrayfield 13-Mar-05","Scotland","05","lost",22,46,-24,3,38,"v Wales","Murrayfield","13-Mar-05",15,0.2,FALSE,"Wales",15,1,FALSE,0
+"Millennium Stadium 19-Mar-05","Wales","05","won",32,20,12,16,6,"v Ireland","Millennium Stadium","19-Mar-05",6,1,TRUE,"Ireland",7,0.6,FALSE,-1
+"Rome 19-Mar-05","Italy","05","lost",13,56,-43,10,24,"v France","Rome","19-Mar-05",7,0,FALSE,"France",7,0.8,FALSE,0
+"Twickenham 19-Mar-05","England","05","won",43,22,21,26,10,"v Scotland","Twickenham","19-Mar-05",7,0.4,FALSE,"Scotland",6,0.2,TRUE,1
+"Lansdowne Road 04-Feb-06","Ireland","06","won",26,16,10,10,10,"v Italy","Lansdowne Road","04-Feb-06",322,0.8,FALSE,"Italy",322,0,FALSE,0
+"Twickenham 04-Feb-06","England","06","won",47,13,34,15,10,"v Wales","Twickenham","04-Feb-06",322,0.4,FALSE,"Wales",322,0.2,FALSE,0
+"Murrayfield 05-Feb-06","Scotland","06","won",20,16,4,13,3,"v France","Murrayfield","05-Feb-06",323,0.6,FALSE,"France",323,0.8,FALSE,0
+"Rome 11-Feb-06","Italy","06","lost",16,31,-15,6,7,"v England","Rome","11-Feb-06",7,0,FALSE,"England",7,0.4,FALSE,0
+"Stade de France 11-Feb-06","France","06","won",43,31,12,29,3,"v Ireland","Stade de France","11-Feb-06",6,0.8,TRUE,"Ireland",7,0.8,FALSE,-1
+"Millennium Stadium 12-Feb-06","Wales","06","won",28,18,10,14,6,"v Scotland","Millennium Stadium","12-Feb-06",8,0.2,FALSE,"Scotland",7,0.6,FALSE,1
+"Murrayfield 25-Feb-06","Scotland","06","won",18,12,6,3,3,"v England","Murrayfield","25-Feb-06",13,0.6,FALSE,"England",14,0.4,FALSE,-1
+"Stade de France 25-Feb-06","France","06","won",37,12,25,8,12,"v Italy","Stade de France","25-Feb-06",14,0.8,FALSE,"Italy",14,0,FALSE,0
+"Lansdowne Road 26-Feb-06","Ireland","06","won",31,5,26,11,5,"v Wales","Lansdowne Road","26-Feb-06",15,0.8,FALSE,"Wales",14,0.2,FALSE,1
+"Lansdowne Road 11-Mar-06","Ireland","06","won",15,9,6,12,9,"v Scotland","Lansdowne Road","11-Mar-06",13,0.8,FALSE,"Scotland",14,0.6,FALSE,-1
+"Millennium Stadium 11-Mar-06","Wales","06","draw",18,18,0,15,15,"v Italy","Millennium Stadium","11-Mar-06",13,0.2,FALSE,"Italy",14,0,FALSE,-1
+"Stade de France 12-Mar-06","France","06","won",31,6,25,16,3,"v England","Stade de France","12-Mar-06",15,0.8,FALSE,"England",15,0.4,FALSE,0
+"Millennium Stadium 18-Mar-06","Wales","06","lost",16,21,-5,13,6,"v France","Millennium Stadium","18-Mar-06",7,0.2,FALSE,"France",6,0.8,TRUE,1
+"Rome 18-Mar-06","Italy","06","lost",10,13,-3,7,10,"v Scotland","Rome","18-Mar-06",7,0,FALSE,"Scotland",7,0.6,FALSE,0
+"Twickenham 18-Mar-06","England","06","lost",24,28,-4,8,11,"v Ireland","Twickenham","18-Mar-06",6,0.4,TRUE,"Ireland",7,0.8,FALSE,-1
+"Rome 03-Feb-07","Italy","07","lost",3,39,-36,3,22,"v France","Rome","03-Feb-07",322,0.4,FALSE,"France",322,0.8,FALSE,0
+"Twickenham 03-Feb-07","England","07","won",42,20,22,17,10,"v Scotland","Twickenham","03-Feb-07",322,0.6,FALSE,"Scotland",322,0.2,FALSE,0
+"Millennium Stadium 04-Feb-07","Wales","07","lost",9,19,-10,9,12,"v Ireland","Millennium Stadium","04-Feb-07",323,0.2,FALSE,"Ireland",323,0.8,FALSE,0
+"Murrayfield 10-Feb-07","Scotland","07","won",21,9,12,9,6,"v Wales","Murrayfield","10-Feb-07",7,0.2,FALSE,"Wales",6,0.2,TRUE,1
+"Twickenham 10-Feb-07","England","07","won",20,7,13,14,0,"v Italy","Twickenham","10-Feb-07",7,0.6,FALSE,"Italy",7,0.4,FALSE,0
+"Croke Park 11-Feb-07","Ireland","07","lost",17,20,-3,11,13,"v France","Croke Park","11-Feb-07",7,0.8,FALSE,"France",8,0.8,FALSE,-1
+"Croke Park 24-Feb-07","Ireland","07","won",43,13,30,23,3,"v England","Croke Park","24-Feb-07",13,0.8,FALSE,"England",14,0.6,FALSE,-1
+"Murrayfield 24-Feb-07","Scotland","07","lost",17,37,-20,10,24,"v Italy","Murrayfield","24-Feb-07",14,0.2,FALSE,"Italy",14,0.4,FALSE,0
+"Stade de France 24-Feb-07","France","07","won",32,21,11,23,14,"v Wales","Stade de France","24-Feb-07",13,0.8,FALSE,"Wales",14,0.2,FALSE,-1
+"Murrayfield 10-Mar-07","Scotland","07","lost",18,19,-1,9,13,"v Ireland","Murrayfield","10-Mar-07",14,0.2,FALSE,"Ireland",14,0.8,FALSE,0
+"Rome 10-Mar-07","Italy","07","won",23,20,3,13,7,"v Wales","Rome","10-Mar-07",14,0.4,FALSE,"Wales",14,0.2,FALSE,0
+"Twickenham 11-Mar-07","England","07","won",26,18,8,9,12,"v France","Twickenham","11-Mar-07",15,0.6,FALSE,"France",15,0.8,FALSE,0
+"Millennium Stadium 17-Mar-07","Wales","07","won",27,18,9,18,15,"v England","Millennium Stadium","17-Mar-07",7,0.2,FALSE,"England",6,0.6,TRUE,1
+"Rome 17-Mar-07","Italy","07","lost",24,51,-27,12,20,"v Ireland","Rome","17-Mar-07",7,0.4,FALSE,"Ireland",7,0.8,FALSE,0
+"Stade de France 17-Mar-07","France","07","won",46,19,27,20,14,"v Scotland","Stade de France","17-Mar-07",6,0.8,TRUE,"Scotland",7,0.2,FALSE,-1
+"Croke Park 02-Feb-08","Ireland","08","won",16,11,5,10,3,"v Italy","Croke Park","02-Feb-08",322,0.4,FALSE,"Italy",322,0.2,FALSE,0
+"Twickenham 02-Feb-08","England","08","lost",19,26,-7,16,6,"v Wales","Twickenham","02-Feb-08",322,0.6,FALSE,"Wales",322,1,FALSE,0
+"Murrayfield 03-Feb-08","Scotland","08","lost",6,27,-21,6,17,"v France","Murrayfield","03-Feb-08",323,0.2,FALSE,"France",323,0.6,FALSE,0
+"Millennium Stadium 09-Feb-08","Wales","08","won",30,15,15,10,6,"v Scotland","Millennium Stadium","09-Feb-08",7,1,FALSE,"Scotland",6,0.2,TRUE,1
+"Stade de France 09-Feb-08","France","08","won",26,21,5,19,6,"v Ireland","Stade de France","09-Feb-08",6,0.6,TRUE,"Ireland",7,0.4,FALSE,-1
+"Rome 10-Feb-08","Italy","08","lost",19,23,-4,6,20,"v England","Rome","10-Feb-08",8,0.2,FALSE,"England",8,0.6,FALSE,0
+"Croke Park 23-Feb-08","Ireland","08","won",34,13,21,14,6,"v Scotland","Croke Park","23-Feb-08",14,0.4,FALSE,"Scotland",14,0.2,FALSE,0
+"Millennium Stadium 23-Feb-08","Wales","08","won",47,8,39,13,8,"v Italy","Millennium Stadium","23-Feb-08",14,1,FALSE,"Italy",13,0.2,FALSE,1
+"Stade de France 23-Feb-08","France","08","lost",13,24,-11,7,13,"v England","Stade de France","23-Feb-08",14,0.6,FALSE,"England",13,0.6,FALSE,1
+"Croke Park 08-Mar-08","Ireland","08","lost",12,16,-4,6,3,"v Wales","Croke Park","08-Mar-08",14,0.4,FALSE,"Wales",14,1,FALSE,0
+"Murrayfield 08-Mar-08","Scotland","08","won",15,9,6,9,3,"v England","Murrayfield","08-Mar-08",14,0.2,FALSE,"England",14,0.6,FALSE,0
+"Stade de France 09-Mar-08","France","08","won",25,13,12,13,6,"v Italy","Stade de France","09-Mar-08",15,0.6,FALSE,"Italy",15,0.2,FALSE,0
+"Millennium Stadium 15-Mar-08","Wales","08","won",29,12,17,9,6,"v France","Millennium Stadium","15-Mar-08",7,1,FALSE,"France",6,0.6,TRUE,1
+"Rome 15-Mar-08","Italy","08","won",23,20,3,10,17,"v Scotland","Rome","15-Mar-08",6,0.2,TRUE,"Scotland",7,0.2,FALSE,-1
+"Twickenham 15-Mar-08","England","08","won",33,10,23,13,10,"v Ireland","Twickenham","15-Mar-08",7,0.6,FALSE,"Ireland",7,0.4,FALSE,0
+"Croke Park 07-Feb-09","Ireland","09","won",30,21,9,13,10,"v France","Croke Park","07-Feb-09",329,1,FALSE,"France",329,0.6,FALSE,0
+"Twickenham 07-Feb-09","England","09","won",36,11,25,22,6,"v Italy","Twickenham","07-Feb-09",329,0.6,FALSE,"Italy",329,0,FALSE,0
+"Murrayfield 08-Feb-09","Scotland","09","lost",13,26,-13,3,16,"v Wales","Murrayfield","08-Feb-09",330,0.2,FALSE,"Wales",330,0.6,FALSE,0
+"Millennium Stadium 14-Feb-09","Wales","09","won",23,15,8,9,8,"v England","Millennium Stadium","14-Feb-09",6,0.6,TRUE,"England",7,0.6,FALSE,-1
+"Stade de France 14-Feb-09","France","09","won",22,13,9,6,3,"v Scotland","Stade de France","14-Feb-09",7,0.6,FALSE,"Scotland",6,0.2,TRUE,1
+"Rome 15-Feb-09","Italy","09","lost",9,38,-29,9,14,"v Ireland","Rome","15-Feb-09",8,0,FALSE,"Ireland",8,1,FALSE,0
+"Stade de France 27-Feb-09","France","09","won",21,16,5,13,13,"v Wales","Stade de France","27-Feb-09",13,0.6,FALSE,"Wales",13,0.6,FALSE,0
+"Croke Park 28-Feb-09","Ireland","09","won",14,13,1,3,3,"v England","Croke Park","28-Feb-09",13,1,FALSE,"England",14,0.6,FALSE,-1
+"Murrayfield 28-Feb-09","Scotland","09","won",26,6,20,16,3,"v Italy","Murrayfield","28-Feb-09",14,0.2,FALSE,"Italy",13,0,FALSE,1
+"Murrayfield 14-Mar-09","Scotland","09","lost",15,22,-7,12,9,"v Ireland","Murrayfield","14-Mar-09",14,0.2,FALSE,"Ireland",14,1,FALSE,0
+"Rome 14-Mar-09","Italy","09","lost",15,20,-5,9,7,"v Wales","Rome","14-Mar-09",14,0,FALSE,"Wales",15,0.6,FALSE,-1
+"Twickenham 15-Mar-09","England","09","won",34,10,24,29,0,"v France","Twickenham","15-Mar-09",15,0.6,FALSE,"France",16,0.6,FALSE,-1
+"Millennium Stadium 21-Mar-09","Wales","09","lost",15,17,-2,6,0,"v Ireland","Millennium Stadium","21-Mar-09",7,0.6,FALSE,"Ireland",7,1,FALSE,0
+"Rome 21-Mar-09","Italy","09","lost",8,50,-42,3,25,"v France","Rome","21-Mar-09",7,0,FALSE,"France",6,0.6,TRUE,1
+"Twickenham 21-Mar-09","England","09","won",26,12,14,15,3,"v Scotland","Twickenham","21-Mar-09",6,0.6,TRUE,"Scotland",7,0.2,FALSE,-1
+"Croke Park 06-Feb-10","Ireland","10","won",29,11,18,23,8,"v Italy","Croke Park","06-Feb-10",322,0.6,FALSE,"Italy",322,0.2,FALSE,0
+"Twickenham 06-Feb-10","England","10","won",30,17,13,13,3,"v Wales","Twickenham","06-Feb-10",322,0.4,FALSE,"Wales",322,0.4,FALSE,0
+"Murrayfield 07-Feb-10","Scotland","10","lost",9,18,-9,6,15,"v France","Murrayfield","07-Feb-10",323,0.2,FALSE,"France",323,1,FALSE,0
+"Millennium Stadium 13-Feb-10","Wales","10","won",31,24,7,9,18,"v Scotland","Millennium Stadium","13-Feb-10",7,0.4,FALSE,"Scotland",6,0.2,TRUE,1
+"Stade de France 13-Feb-10","France","10","won",33,10,23,17,3,"v Ireland","Stade de France","13-Feb-10",6,1,TRUE,"Ireland",7,0.6,FALSE,-1
+"Rome 14-Feb-10","Italy","10","lost",12,17,-5,6,6,"v England","Rome","14-Feb-10",8,0.2,FALSE,"England",8,0.4,FALSE,0
+"Millennium Stadium 26-Feb-10","Wales","10","lost",20,26,-6,0,20,"v France","Millennium Stadium","26-Feb-10",13,0.4,FALSE,"France",13,1,FALSE,0
+"Rome 27-Feb-10","Italy","10","won",16,12,4,6,6,"v Scotland","Rome","27-Feb-10",13,0.2,FALSE,"Scotland",14,0.2,FALSE,-1
+"Twickenham 27-Feb-10","England","10","lost",16,20,-4,6,8,"v Ireland","Twickenham","27-Feb-10",13,0.4,FALSE,"Ireland",14,0.6,FALSE,-1
+"Croke Park 13-Mar-10","Ireland","10","won",27,12,15,16,6,"v Wales","Croke Park","13-Mar-10",14,0.6,FALSE,"Wales",15,0.4,FALSE,-1
+"Murrayfield 13-Mar-10","Scotland","10","draw",15,15,0,9,6,"v England","Murrayfield","13-Mar-10",14,0.2,FALSE,"England",14,0.4,FALSE,0
+"Stade de France 14-Mar-10","France","10","won",46,20,26,22,3,"v Italy","Stade de France","14-Mar-10",16,1,FALSE,"Italy",15,0.2,FALSE,1
+"Croke Park 20-Mar-10","Ireland","10","lost",20,23,-3,7,14,"v Scotland","Croke Park","20-Mar-10",7,0.6,FALSE,"Scotland",7,0.2,FALSE,0
+"Millennium Stadium 20-Mar-10","Wales","10","won",33,10,23,12,0,"v Italy","Millennium Stadium","20-Mar-10",7,0.4,FALSE,"Italy",6,0.2,TRUE,1
+"Stade de France 20-Mar-10","France","10","won",12,10,2,12,7,"v England","Stade de France","20-Mar-10",6,1,TRUE,"England",7,0.4,FALSE,-1
+"Millennium Stadium 04-Feb-11","Wales","11","lost",19,26,-7,6,13,"v England","Millennium Stadium","04-Feb-11",321,0.6,FALSE,"England",321,0.8,FALSE,0
+"Rome 05-Feb-11","Italy","11","lost",11,13,-2,6,3,"v Ireland","Rome","05-Feb-11",322,0.2,FALSE,"Ireland",322,0.6,FALSE,0
+"Stade de France 05-Feb-11","France","11","won",34,21,13,17,7,"v Scotland","Stade de France","05-Feb-11",322,0.6,FALSE,"Scotland",322,0.2,FALSE,0
+"Murrayfield 12-Feb-11","Scotland","11","lost",6,24,-18,3,16,"v Wales","Murrayfield","12-Feb-11",7,0.2,FALSE,"Wales",8,0.6,FALSE,-1
+"Twickenham 12-Feb-11","England","11","won",59,13,46,31,6,"v Italy","Twickenham","12-Feb-11",8,0.8,FALSE,"Italy",7,0.2,FALSE,1
+"Lansdowne Road 13-Feb-11","Ireland","11","lost",22,25,-3,15,12,"v France","Lansdowne Road","13-Feb-11",8,0.6,FALSE,"France",8,0.6,FALSE,0
+"Rome 26-Feb-11","Italy","11","lost",16,24,-8,11,21,"v Wales","Rome","26-Feb-11",14,0.2,FALSE,"Wales",14,0.6,FALSE,0
+"Twickenham 26-Feb-11","England","11","won",17,9,8,9,9,"v France","Twickenham","26-Feb-11",14,0.8,FALSE,"France",13,0.6,FALSE,1
+"Murrayfield 27-Feb-11","Scotland","11","lost",18,21,-3,9,14,"v Ireland","Murrayfield","27-Feb-11",15,0.2,FALSE,"Ireland",14,0.6,FALSE,1
+"Millennium Stadium 12-Mar-11","Wales","11","won",19,13,6,9,13,"v Ireland","Millennium Stadium","12-Mar-11",14,0.6,FALSE,"Ireland",13,0.6,FALSE,1
+"Rome 12-Mar-11","Italy","11","won",22,21,1,6,8,"v France","Rome","12-Mar-11",14,0.2,FALSE,"France",14,0.6,FALSE,0
+"Twickenham 13-Mar-11","England","11","won",22,16,6,9,9,"v Scotland","Twickenham","13-Mar-11",15,0.8,FALSE,"Scotland",14,0.2,FALSE,1
+"Lansdowne Road 19-Mar-11","Ireland","11","won",24,8,16,17,3,"v England","Lansdowne Road","19-Mar-11",7,0.6,FALSE,"England",6,0.8,TRUE,1
+"Murrayfield 19-Mar-11","Scotland","11","won",21,8,13,6,8,"v Italy","Murrayfield","19-Mar-11",6,0.2,TRUE,"Italy",7,0.2,FALSE,-1
+"Stade de France 19-Mar-11","France","11","won",28,9,19,11,3,"v Wales","Stade de France","19-Mar-11",7,0.6,FALSE,"Wales",7,0.6,FALSE,0
+"Murrayfield 04-Feb-12","Scotland","12","lost",6,13,-7,6,3,"v England","Murrayfield","04-Feb-12",322,0,FALSE,"England",322,0.8,FALSE,0
+"Stade de France 04-Feb-12","France","12","won",30,12,18,15,6,"v Italy","Stade de France","04-Feb-12",322,0.4,FALSE,"Italy",322,0.2,FALSE,0
+"Lansdowne Road 05-Feb-12","Ireland","12","lost",21,23,-2,10,5,"v Wales","Lansdowne Road","05-Feb-12",323,0.4,FALSE,"Wales",323,1,FALSE,0
+"Rome 11-Feb-12","Italy","12","lost",15,19,-4,12,6,"v England","Rome","11-Feb-12",7,0.2,FALSE,"England",7,0.8,FALSE,0
+"Millennium Stadium 12-Feb-12","Wales","12","won",27,13,14,3,3,"v Scotland","Millennium Stadium","12-Feb-12",7,1,FALSE,"Scotland",8,0,FALSE,-1
+"Lansdowne Road 25-Feb-12","Ireland","12","won",42,10,32,17,10,"v Italy","Lansdowne Road","25-Feb-12",20,0.4,FALSE,"Italy",14,0.2,FALSE,6
+"Twickenham 25-Feb-12","England","12","lost",12,19,-7,9,6,"v Wales","Twickenham","25-Feb-12",14,0.8,FALSE,"Wales",13,1,FALSE,1
+"Murrayfield 26-Feb-12","Scotland","12","lost",17,23,-6,10,10,"v France","Murrayfield","26-Feb-12",14,0,FALSE,"France",22,0.4,FALSE,-8
+"Stade de France 04-Mar-12","France","12","draw",17,17,0,6,17,"v Ireland","Stade de France","04-Mar-12",7,0.4,FALSE,"Ireland",8,0.4,FALSE,-1
+"Lansdowne Road 10-Mar-12","Ireland","12","won",32,14,18,22,14,"v Scotland","Lansdowne Road","10-Mar-12",6,0.4,TRUE,"Scotland",13,0,FALSE,-7
+"Millennium Stadium 10-Mar-12","Wales","12","won",24,3,21,9,3,"v Italy","Millennium Stadium","10-Mar-12",14,1,FALSE,"Italy",14,0.2,FALSE,0
+"Stade de France 11-Mar-12","France","12","lost",22,24,-2,9,14,"v England","Stade de France","11-Mar-12",7,0.4,FALSE,"England",15,0.8,FALSE,-8
+"Millennium Stadium 17-Mar-12","Wales","12","won",16,9,7,10,3,"v France","Millennium Stadium","17-Mar-12",7,1,FALSE,"France",6,0.4,TRUE,1
+"Rome 17-Mar-12","Italy","12","won",13,6,7,3,3,"v Scotland","Rome","17-Mar-12",7,0.2,FALSE,"Scotland",7,0,FALSE,0
+"Twickenham 17-Mar-12","England","12","won",30,9,21,9,6,"v Ireland","Twickenham","17-Mar-12",6,0.8,TRUE,"Ireland",7,0.4,FALSE,-1
+"Millennium Stadium 02-Feb-13","Wales","13","lost",22,30,-8,3,23,"v Ireland","Millennium Stadium","02-Feb-13",322,0.8,FALSE,"Ireland",322,0.2,FALSE,0
+"Twickenham 02-Feb-13","England","13","won",38,18,20,19,11,"v Scotland","Twickenham","02-Feb-13",322,0.8,FALSE,"Scotland",322,0.4,FALSE,0
+"Rome 03-Feb-13","Italy","13","won",23,18,5,13,15,"v France","Rome","03-Feb-13",323,0.4,FALSE,"France",323,0.2,FALSE,0
+"Murrayfield 09-Feb-13","Scotland","13","won",34,10,24,13,3,"v Italy","Murrayfield","09-Feb-13",7,0.4,FALSE,"Italy",6,0.4,TRUE,1
+"Stade de France 09-Feb-13","France","13","lost",6,16,-10,3,3,"v Wales","Stade de France","09-Feb-13",6,0.2,TRUE,"Wales",7,0.8,FALSE,-1
+"Lansdowne Road 10-Feb-13","Ireland","13","lost",6,12,-6,0,6,"v England","Lansdowne Road","10-Feb-13",8,0.2,FALSE,"England",8,0.8,FALSE,0
+"Rome 23-Feb-13","Italy","13","lost",9,26,-17,6,9,"v Wales","Rome","23-Feb-13",14,0.4,FALSE,"Wales",14,0.8,FALSE,0
+"Twickenham 23-Feb-13","England","13","won",23,13,10,9,10,"v France","Twickenham","23-Feb-13",13,0.8,FALSE,"France",14,0.2,FALSE,-1
+"Murrayfield 24-Feb-13","Scotland","13","won",12,8,4,0,3,"v Ireland","Murrayfield","24-Feb-13",15,0.4,FALSE,"Ireland",14,0.2,FALSE,1
+"Lansdowne Road 09-Mar-13","Ireland","13","draw",13,13,0,13,3,"v France","Lansdowne Road","09-Mar-13",13,0.2,FALSE,"France",14,0.2,FALSE,-1
+"Murrayfield 09-Mar-13","Scotland","13","lost",18,28,-10,12,13,"v Wales","Murrayfield","09-Mar-13",13,0.4,FALSE,"Wales",14,0.8,FALSE,-1
+"Twickenham 10-Mar-13","England","13","won",18,11,7,12,3,"v Italy","Twickenham","10-Mar-13",15,0.8,FALSE,"Italy",15,0.4,FALSE,0
+"Millennium Stadium 16-Mar-13","Wales","13","won",30,3,27,9,3,"v England","Millennium Stadium","16-Mar-13",7,0.8,FALSE,"England",6,0.8,TRUE,1
+"Rome 16-Mar-13","Italy","13","won",22,15,7,9,6,"v Ireland","Rome","16-Mar-13",6,0.4,TRUE,"Ireland",7,0.2,FALSE,-1
+"Stade de France 16-Mar-13","France","13","won",23,16,7,0,6,"v Scotland","Stade de France","16-Mar-13",7,0.2,FALSE,"Scotland",7,0.4,FALSE,0
+"Millennium Stadium 01-Feb-14","Wales","14","won",23,15,8,17,3,"v Italy","Millennium Stadium","01-Feb-14",322,0.6,FALSE,"Italy",322,0,FALSE,0
+"Stade de France 01-Feb-14","France","14","won",26,24,2,16,8,"v England","Stade de France","01-Feb-14",322,0.6,FALSE,"England",322,0.8,FALSE,0
+"Lansdowne Road 02-Feb-14","Ireland","14","won",28,6,22,11,3,"v Scotland","Lansdowne Road","02-Feb-14",323,0.8,FALSE,"Scotland",323,0.2,FALSE,0
+"Lansdowne Road 08-Feb-14","Ireland","14","won",26,3,23,13,0,"v Wales","Lansdowne Road","08-Feb-14",6,0.8,TRUE,"Wales",7,0.6,FALSE,-1
+"Murrayfield 08-Feb-14","Scotland","14","lost",0,20,-20,0,13,"v England","Murrayfield","08-Feb-14",6,0.2,TRUE,"England",7,0.8,FALSE,-1
+"Stade de France 09-Feb-14","France","14","won",30,10,20,9,3,"v Italy","Stade de France","09-Feb-14",8,0.6,FALSE,"Italy",8,0,FALSE,0
+"Millennium Stadium 21-Feb-14","Wales","14","won",27,6,21,20,6,"v France","Millennium Stadium","21-Feb-14",13,0.6,FALSE,"France",12,0.6,FALSE,1
+"Rome 22-Feb-14","Italy","14","lost",20,21,-1,13,3,"v Scotland","Rome","22-Feb-14",13,0,FALSE,"Scotland",14,0.2,FALSE,-1
+"Twickenham 22-Feb-14","England","14","won",13,10,3,3,0,"v Ireland","Twickenham","22-Feb-14",14,0.8,FALSE,"Ireland",14,0.8,FALSE,0
+"Lansdowne Road 08-Mar-14","Ireland","14","won",46,7,39,17,7,"v Italy","Lansdowne Road","08-Mar-14",14,0.8,FALSE,"Italy",14,0,FALSE,0
+"Murrayfield 08-Mar-14","Scotland","14","lost",17,19,-2,14,9,"v France","Murrayfield","08-Mar-14",14,0.2,FALSE,"France",15,0.6,FALSE,-1
+"Twickenham 09-Mar-14","England","14","won",29,18,11,20,15,"v Wales","Twickenham","09-Mar-14",15,0.8,FALSE,"Wales",16,0.6,FALSE,-1
+"Millennium Stadium 15-Mar-14","Wales","14","won",51,3,48,27,3,"v Scotland","Millennium Stadium","15-Mar-14",6,0.6,TRUE,"Scotland",7,0.2,FALSE,-1
+"Rome 15-Mar-14","Italy","14","lost",11,52,-41,6,24,"v England","Rome","15-Mar-14",7,0,FALSE,"England",6,0.8,TRUE,1
+"Stade de France 15-Mar-14","France","14","lost",20,22,-2,13,12,"v Ireland","Stade de France","15-Mar-14",7,0.6,FALSE,"Ireland",7,0.8,FALSE,0
+"Millennium Stadium 06-Feb-15","Wales","15","lost",16,21,-5,16,8,"v England","Millennium Stadium","06-Feb-15",328,0.8,FALSE,"England",328,0.8,FALSE,0
+"Rome 07-Feb-15","Italy","15","lost",3,26,-23,3,9,"v Ireland","Rome","07-Feb-15",329,0.2,FALSE,"Ireland",329,0.8,FALSE,0
+"Stade de France 07-Feb-15","France","15","won",15,8,7,9,8,"v Scotland","Stade de France","07-Feb-15",329,0.4,FALSE,"Scotland",329,0,FALSE,0
+"Lansdowne Road 14-Feb-15","Ireland","15","won",18,11,7,12,6,"v France","Lansdowne Road","14-Feb-15",7,0.8,FALSE,"France",7,0.4,FALSE,0
+"Twickenham 14-Feb-15","England","15","won",47,17,30,15,5,"v Italy","Twickenham","14-Feb-15",8,0.8,FALSE,"Italy",7,0.2,FALSE,1
+"Murrayfield 15-Feb-15","Scotland","15","lost",23,26,-3,10,16,"v Wales","Murrayfield","15-Feb-15",8,0,FALSE,"Wales",9,0.8,FALSE,-1
+"Murrayfield 28-Feb-15","Scotland","15","lost",19,22,-3,16,15,"v Italy","Murrayfield","28-Feb-15",13,0,FALSE,"Italy",14,0.2,FALSE,-1
+"Stade de France 28-Feb-15","France","15","lost",13,20,-7,3,6,"v Wales","Stade de France","28-Feb-15",14,0.4,FALSE,"Wales",13,0.8,FALSE,1
+"Lansdowne Road 01-Mar-15","Ireland","15","won",19,9,10,9,3,"v England","Lansdowne Road","01-Mar-15",15,0.8,FALSE,"England",15,0.8,FALSE,0
+"Millennium Stadium 14-Mar-15","Wales","15","won",23,16,7,15,9,"v Ireland","Millennium Stadium","14-Mar-15",14,0.8,FALSE,"Ireland",13,0.8,FALSE,1
+"Twickenham 14-Mar-15","England","15","won",25,13,12,10,13,"v Scotland","Twickenham","14-Mar-15",13,0.8,FALSE,"Scotland",14,0,FALSE,-1
+"Rome 15-Mar-15","Italy","15","lost",0,29,-29,0,9,"v France","Rome","15-Mar-15",15,0.2,FALSE,"France",15,0.4,FALSE,0
+"Murrayfield 21-Mar-15","Scotland","15","lost",10,40,-30,10,20,"v Ireland","Murrayfield","21-Mar-15",7,0,FALSE,"Ireland",7,0.8,FALSE,0
+"Rome 21-Mar-15","Italy","15","lost",20,61,-41,13,14,"v Wales","Rome","21-Mar-15",6,0.2,TRUE,"Wales",7,0.8,FALSE,-1
+"Twickenham 21-Mar-15","England","15","won",55,35,20,27,15,"v France","Twickenham","21-Mar-15",7,0.8,FALSE,"France",6,0.4,TRUE,1
+"Murrayfield 06-Feb-16","Scotland","16","lost",9,15,-6,6,7,"v England","Murrayfield","06-Feb-16",322,0.4,FALSE,"England",322,1,FALSE,0
+"Stade de France 06-Feb-16","France","16","won",23,21,2,10,8,"v Italy","Stade de France","06-Feb-16",322,0.4,FALSE,"Italy",322,0,FALSE,0
+"Lansdowne Road 07-Feb-16","Ireland","16","draw",16,16,0,13,10,"v Wales","Lansdowne Road","07-Feb-16",323,0.4,FALSE,"Wales",323,0.6,FALSE,0
+"Millennium Stadium 13-Feb-16","Wales","16","won",27,23,4,10,13,"v Scotland","Millennium Stadium","13-Feb-16",6,0.6,TRUE,"Scotland",7,0.4,FALSE,-1
+"Stade de France 13-Feb-16","France","16","won",10,9,1,3,9,"v Ireland","Stade de France","13-Feb-16",7,0.4,FALSE,"Ireland",6,0.4,TRUE,1
+"Rome 14-Feb-16","Italy","16","lost",9,40,-31,9,11,"v England","Rome","14-Feb-16",8,0,FALSE,"England",8,1,FALSE,0
+"Millennium Stadium 26-Feb-16","Wales","16","won",19,10,9,6,3,"v France","Millennium Stadium","26-Feb-16",13,0.6,FALSE,"France",13,0.4,FALSE,0
+"Rome 27-Feb-16","Italy","16","lost",20,36,-16,10,17,"v Scotland","Rome","27-Feb-16",13,0,FALSE,"Scotland",14,0.4,FALSE,-1
+"Twickenham 27-Feb-16","England","16","won",21,10,11,6,3,"v Ireland","Twickenham","27-Feb-16",13,1,FALSE,"Ireland",14,0.4,FALSE,-1
+"Lansdowne Road 12-Mar-16","Ireland","16","won",58,15,43,25,3,"v Italy","Lansdowne Road","12-Mar-16",14,0.4,FALSE,"Italy",14,0,FALSE,0
+"Twickenham 12-Mar-16","England","16","won",25,21,4,16,0,"v Wales","Twickenham","12-Mar-16",14,1,FALSE,"Wales",15,0.6,FALSE,-1
+"Murrayfield 13-Mar-16","Scotland","16","won",29,18,11,18,12,"v France","Murrayfield","13-Mar-16",15,0.4,FALSE,"France",16,0.4,FALSE,-1
+"Lansdowne Road 19-Mar-16","Ireland","16","won",35,25,10,21,13,"v Scotland","Lansdowne Road","19-Mar-16",7,0.4,FALSE,"Scotland",6,0.4,TRUE,1
+"Millennium Stadium 19-Mar-16","Wales","16","won",67,14,53,27,0,"v Italy","Millennium Stadium","19-Mar-16",7,0.6,FALSE,"Italy",7,0,FALSE,0
+"Stade de France 19-Mar-16","France","16","lost",21,31,-10,12,17,"v England","Stade de France","19-Mar-16",6,0.4,TRUE,"England",7,1,FALSE,-1
+"Murrayfield 04-Feb-17","Scotland","17","won",27,22,5,21,8,"v Ireland","Murrayfield","04-Feb-17",322,0.6,FALSE,"Ireland",322,0.6,FALSE,0
+"Twickenham 04-Feb-17","England","17","won",19,16,3,9,9,"v France","Twickenham","04-Feb-17",322,0.8,FALSE,"France",322,0.6,FALSE,0
+"Rome 05-Feb-17","Italy","17","lost",7,33,-26,7,3,"v Wales","Rome","05-Feb-17",323,0,FALSE,"Wales",323,0.4,FALSE,0
+"Millennium Stadium 11-Feb-17","Wales","17","lost",16,21,-5,13,8,"v England","Millennium Stadium","11-Feb-17",6,0.4,TRUE,"England",7,0.8,FALSE,-1
+"Rome 11-Feb-17","Italy","17","lost",10,63,-53,10,28,"v Ireland","Rome","11-Feb-17",6,0,TRUE,"Ireland",7,0.6,FALSE,-1
+"Stade de France 12-Feb-17","France","17","won",22,16,6,13,11,"v Scotland","Stade de France","12-Feb-17",8,0.6,FALSE,"Scotland",8,0.6,FALSE,0
+"Lansdowne Road 25-Feb-17","Ireland","17","won",19,9,10,7,6,"v France","Lansdowne Road","25-Feb-17",14,0.6,FALSE,"France",13,0.6,FALSE,1
+"Murrayfield 25-Feb-17","Scotland","17","won",29,13,16,9,13,"v Wales","Murrayfield","25-Feb-17",13,0.6,FALSE,"Wales",14,0.4,FALSE,-1
+"Twickenham 26-Feb-17","England","17","won",36,15,21,5,10,"v Italy","Twickenham","26-Feb-17",15,0.8,FALSE,"Italy",15,0,FALSE,0
+"Millennium Stadium 10-Mar-17","Wales","17","won",22,9,13,8,6,"v Ireland","Millennium Stadium","10-Mar-17",13,0.4,FALSE,"Ireland",13,0.6,FALSE,0
+"Rome 11-Mar-17","Italy","17","lost",18,40,-22,11,16,"v France","Rome","11-Mar-17",13,0,FALSE,"France",14,0.6,FALSE,-1
+"Twickenham 11-Mar-17","England","17","won",61,21,40,30,7,"v Scotland","Twickenham","11-Mar-17",13,0.8,FALSE,"Scotland",14,0.6,FALSE,-1
+"Lansdowne Road 18-Mar-17","Ireland","17","won",13,9,4,10,3,"v England","Lansdowne Road","18-Mar-17",8,0.6,FALSE,"England",7,0.8,FALSE,1
+"Murrayfield 18-Mar-17","Scotland","17","won",29,0,29,15,0,"v Italy","Murrayfield","18-Mar-17",7,0.6,FALSE,"Italy",7,0,FALSE,0
+"Stade de France 18-Mar-17","France","17","won",20,18,2,10,9,"v Wales","Stade de France","18-Mar-17",7,0.6,FALSE,"Wales",8,0.4,FALSE,-1
+"Millennium Stadium 03-Feb-18","Wales","18","won",34,7,27,14,0,"v Scotland","Millennium Stadium","03-Feb-18",322,1,FALSE,"Scotland",322,0,FALSE,0
+"Stade de France 03-Feb-18","France","18","lost",13,15,-2,3,9,"v Ireland","Stade de France","03-Feb-18",322,0,FALSE,"Ireland",322,1,FALSE,0
+"Rome 04-Feb-18","Italy","18","lost",15,46,-31,10,17,"v England","Rome","04-Feb-18",323,0,FALSE,"England",323,1,FALSE,0
