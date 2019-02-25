@@ -1,4 +1,4 @@
-# sixnations_6dto
+# 6 Day Turnarounds and Preparation day advantage - 6 Nations Rugby
 Data from Six Nations Rugby Tournament 03-17
 
 Downloaded original data from:
