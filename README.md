@@ -8,6 +8,6 @@ I wanted to check whether 6-Day turn-arounds made teams more vulnerable to a def
 
 This is tricky to analyse. Just looking at the date differences, there seems to be an effect. In particular, the home team has an advantage if the away team has one less day of prep. 
 
-But, this is complicated by the fact that it seems that the opposition teams that have one less day of prep tend to be weaker teams based on their overall performance that year (but it is hard to exclude the effect of the trun-around loss on their overall performance).
+But, this is complicated by the fact that it seems that the opposition teams that have one less day of prep tend to be weaker teams based on their overall performance that year (but it is hard to exclude the effect of the turnaround loss on their overall performance).
 
 Check out the jupyter notebook (sixnations_6dto.ipynb) to see some analyses
